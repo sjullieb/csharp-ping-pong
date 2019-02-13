@@ -19,11 +19,16 @@ namespace Game.Tests
       Assert.AreEqual("ping", pingPongTest.Convert(3));
     }
     [TestMethod]
-    public void Convert_NumberIsDivisibleBy5_Ping()
+    public void Convert_NumberIsDivisibleBy5_Pong()
     {
       PingPong pingPongTest = new PingPong();
       Assert.AreEqual("pong", pingPongTest.Convert(5));
     }
-
+    [TestMethod]
+    public void Convert_NumberIsDivisibleBy5AndBy3_PingPong()
+    {
+      PingPong pingPongTest = new PingPong();
+      Assert.AreEqual("ping pong", pingPongTest.Convert(15));
+    }
   }
 }
