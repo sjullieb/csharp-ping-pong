@@ -12,5 +12,12 @@ namespace Game.Tests
       PingPong pingPongTest = new PingPong();
       Assert.AreEqual("2", pingPongTest.Convert(2));
     }
+    [TestMethod]
+    public void Convert_NumberIsDivisibleBy3_Ping()
+    {
+      PingPong pingPongTest = new PingPong();
+      Assert.AreEqual("ping", pingPongTest.Convert(3));
+    }
+
   }
 }
