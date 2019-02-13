@@ -1,0 +1,14 @@
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Ping-Pong.Tests.deps.json
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Ping-Pong.Tests.runtimeconfig.json
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Ping-Pong.Tests.runtimeconfig.dev.json
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\obj\Debug\netcoreapp1.1\Ping-Pong.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\obj\Debug\netcoreapp1.1\Ping-Pong.Tests.AssemblyInfo.cs
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Ping-Pong.Tests.dll
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Ping-Pong.Tests.pdb
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Ping-Pong.dll
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\bin\Debug\netcoreapp1.1\Ping-Pong.pdb
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\obj\Debug\netcoreapp1.1\Ping-Pong.Tests.dll
+C:\Projects\Epicodus\C#\Ping-Pong.Solution\Ping-PongTests\obj\Debug\netcoreapp1.1\Ping-Pong.Tests.pdb
